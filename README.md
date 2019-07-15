@@ -1,7 +1,7 @@
 # ProgressDialog
 A dialog with a revolving progress bar.
 
-![GIF](https://github.com/cdreamplayer/ProgressDialog/blob/master/show/show.gif){:height="840" width="360"}
+![GIF](https://github.com/cdreamplayer/ProgressDialog/blob/master/show/show.gif)
 
 ## Add ProgressDialog to your project.
     
