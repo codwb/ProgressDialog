@@ -1,6 +1,8 @@
 # ProgressDialog
 A dialog with a revolving progress bar.
 
+![image]("https://github.com/cdreamplayer/ProgressDialog/show/show.gif")
+
 ## Add ProgressDialog to your project.
     
     // project.gradle

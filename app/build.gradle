@@ -24,7 +24,8 @@ android {
 }
 
 dependencies {
-    implementation project(':progress_dialog')
+   // implementation project(':progress_dialog')
+    implementation 'com.github.cdreamplayer:ProgressDialog:1.0.0'
 
     implementation fileTree(dir: 'libs', include: ['*.jar'])
     implementation"org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
