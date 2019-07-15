@@ -5,6 +5,7 @@ A dialog with a revolving progress bar.
 
 ## Add ProgressDialog to your project.
 [![](https://jitpack.io/v/cdreamplayer/ProgressDialog.svg)](https://jitpack.io/#cdreamplayer/ProgressDialog)
+
     // project.gradle
     dependencies {
       ...
