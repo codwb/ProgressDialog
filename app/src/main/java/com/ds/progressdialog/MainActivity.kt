@@ -1,7 +1,7 @@
 package com.ds.progressdialog
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
 import com.c.progress_dialog.BlackProgressDialog
 import kotlinx.android.synthetic.main.activity_main.*
 
