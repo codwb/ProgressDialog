@@ -1,11 +1,11 @@
 # ProgressDialog
 A dialog with a revolving progress bar.
 
-## Add ProgressDialog in your project.
+## Add ProgressDialog to your project.
     
     // project.gradle
     dependencies {
-      ..
+      ...
       maven { url 'https://jitpack.io' }
     }
 
